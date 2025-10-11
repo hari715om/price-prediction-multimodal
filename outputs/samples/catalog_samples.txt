@@ -1,0 +1,497 @@
+
+================================================================================
+SAMPLE 1
+================================================================================
+Item Name: Log Cabin Sugar Free Syrup, 24 FL OZ (Pack of 12)
+Bullet Point 1: Contains twelve (12) 24-ounce bottles of Log Cabin Sugar Free Syrup for Pancakes and Waffles
+Bullet Point 2: Indulge in thick, delicious syrup for pancakes, waffles, French toast and more
+Bullet Point 3: 90% fewer calories than our original syrup and no sugar or high fructose corn syrup
+Bullet Point 4: Amazing syrup that you can feel good about serving to your family and guests
+Bullet Point 5: Stock up on this breakfast
+...
+
+================================================================================
+SAMPLE 2
+================================================================================
+Item Name: Raspberry Ginseng Oolong Tea (50 tea bags, ZIN: 543034) - 2 Pack
+Bullet Point 1: Our Raspberry Ginseng Oolong Tea is a luxurious flavored Oolong tea with Raspberries (Red), Raspberry Leaf (Red) and Ginseng Root that you can enjoy hot or cold! The Raspberry Ginseng flavor and aroma is wonderful! - Ingredients: Oolong tea, Raspberries (Red), Raspberry Leaf (Red), Ginseng Root and Natural Raspberry Ginseng Flavor.
+Bullet Point 2: No fillers.
+Bullet Point 3: Manufacturer: TerraVita
+Bullet
+...
+
+================================================================================
+SAMPLE 3
+================================================================================
+Item Name: Walden Farms Honey Dijon Dressing - Calorie-Free, Gluten-Free, Low Carb, Keto-Friendly, Sugar-Free, Sweet Honey & Dijon Mustard Flavor, (12 oz Bottle x 2)
+Bullet Point: Walden Farms Salad Dressings
+Product Description: Nothing beats the flavor of honey and Dijon mustard, especially when it contains no calories, fat or sugar! Made from simple ingredients like organic apple cider vinegar, Organic Dijon mustard and sea salt, this Walden Farms Honey Dijon dressing is free from artificial 
+...
+
+================================================================================
+SAMPLE 4
+================================================================================
+Item Name: Vlasic Ovals Hamburger Dill Pickle Chips, Keto Friendly, 16 FL OZ
+Bullet Point 1: One 16 fl oz jar of Vlasic Ovals Hamburger Dill Pickle Chips
+Bullet Point 2: Perfectly crunchy hamburger dill pickles made with a one-of-a-kind pickling recipe
+Bullet Point 3: Oval pickles deliver classic dill flavor
+Bullet Point 4: Hamburger dill chips contain 0 calories per serving
+Bullet Point 5: Packaged in a resealable jar to lock in flavor and keep pickles crunchy
+Value: 16.0
+Unit: Count
+
+
+================================================================================
+SAMPLE 5
+================================================================================
+Item Name: Amoretti Premium Syrup, Grand Orange, 25.4 Ounce (Pack of 12)
+Bullet Point 1: Made with natural flavor
+Bullet Point 2: Only 35 calories per serving and 62 servings per bottle
+Bullet Point 3: Free pump included
+Bullet Point 4: Delicious syrup for latte, tea, coffee, smoothies, Italian soda and desserts
+Bullet Point 5: Proudly made in Southern California
+Value: 304.8
+Unit: Fl Oz
+
+
+================================================================================
+SAMPLE 6
+================================================================================
+Item Name: Matt's Bakery Peanut Butter Soft-Baked Cookies, All Natural, Kosher, Non-GMO, 10.5 Ounce (Pack of 6)
+Bullet Point: Matt's Bakery Peanut Butter Soft-Baked Cookies, All Natural, Kosher, Non-GMO, 10.5 Ounce (Pack of 6)
+Value: 63.0
+Unit: Ounce
+
+
+================================================================================
+SAMPLE 7
+================================================================================
+Item Name: Pineapple Tea-Berry Rooibos Tea (50 tea bags, ZIN: 537077) - 2 Pack
+Bullet Point 1: Our Pineapple Tea-Berry Rooibos Tea is a delightful flavored Rooibos tea with Pineapple, Blackberry and Rose Petals that you will really enjoy! The unique Pineapple Tea-Berry aroma and taste is a delight! - Ingredients: Rooibos tea, Pineapple, Blackberry, Rose Petals and Natural Pineapple Tea-berry Flavor.
+Bullet Point 2: No fillers.
+Bullet Point 3: Manufacturer: TerraVita
+Bullet Point 4: Size: 50 tea 
+...
+
+================================================================================
+SAMPLE 8
+================================================================================
+Item Name: Brooklyn Beans Coffee Pods, Medium Roast Gourmet Variety Pack - Compatible with Keurig K Cup Brewers Including 2.0 Machines, 40 Count
+Bullet Point 1: Enjoy a range of rich and smooth medium roast coffees, perfect for a balanced and aromatic coffee experience any time of day.
+Bullet Point 2: These 40 count pods are compatible with Keurig K Cup Brewers, including 2.0 machines, ensuring seamless and convenient brewing for a delightful coffee experience.
+Bullet Point 3: Each pod is crafte
+...
+
+================================================================================
+SAMPLE 9
+================================================================================
+Item Name: Goldenseal and Witch Hazel Combination Tea (Loose) (4 oz, ZIN: 512111) - 3 Pack
+Bullet Point 1: Goldenseal and Witch Hazel Combination Tea (Loose) (4 oz, ZIN: 512111)
+Bullet Point 2: No fillers.
+Bullet Point 3: Manufacturer: TerraVita
+Bullet Point 4: Size: 4 oz
+Bullet Point 5: Loose Leaf Herbal Tea - Packed in a convenient upright pouch!
+Product Description: Goldenseal and Witch Hazel Combination Tea (Loose) (4 oz, ZIN: 512111)<BR><BR>Packaged in the United States in a GMP certified f
+...
+
+================================================================================
+SAMPLE 10
+================================================================================
+Item Name: GIANT SLIM JIM MILD, Pack of 24
+Product Description: Slim Jim Giant - Mild - 24 Unit Box
+Value: 23.28
+Unit: Ounce
+
+
+================================================================================
+SAMPLE 11
+================================================================================
+Item Name: Organic Way Premium White Peppercorns Whole (Piper nigrum) - Grinder Refill | Organic & Kosher Certified | Raw, Vegan, Non GMO & Gluten Free | USDA Certified | Origin - India (1/4LBS / 4OZ)
+Bullet Point 1: 100% tested USDA and Kosher certified herbal product
+Bullet Point 2: Organic products imported from India and packaged in USA
+Bullet Point 3: Authentic White Pepper Whole processed in a hygienic environment
+Bullet Point 4: Pure, highly potent White Pepper Whole with a distinct aroma
+...
+
+================================================================================
+SAMPLE 12
+================================================================================
+Item Name: Ginger Peach Black Tea (Deluxe Blend) (50 tea bags, ZIN: 530275)
+Bullet Point 1: Our Ginger Peach Black Tea is a scrumptuous flavored Black tea with Ginger Root and Peach that will impress you with its refreshing taste! - Ingredients: Black tea, Ginger Root, Peach and natural ginger peach flavor.
+Bullet Point 2: No fillers.
+Bullet Point 3: Manufacturer: TerraVita
+Bullet Point 4: Size: 50 tea bags
+Bullet Point 5: Black Tea Bags - Packed in a convenient upright pouch!
+Product Descriptio
+...
+
+================================================================================
+SAMPLE 13
+================================================================================
+Item Name: Kirkland Signature Organic Raw Honey, 24 oz, 3-count
+Bullet Point 1: Honey Bear Plastic Jar
+Bullet Point 2: 100% Grade A
+Bullet Point 3: USDA Organic
+Bullet Point 4: 72 oz. Total Net Weight
+Product Description: Organic Honey
+Value: 3.0
+Unit: Count
+
+
+================================================================================
+SAMPLE 14
+================================================================================
+Item Name: Strawberry Papaya Yerba Mate Tea (50 tea bags, ZIN: 565267) - 3 Pack
+Bullet Point 1: Our Strawberry Papaya Yerba Mate tea is a scrumptuous all-natural flavored Yerba Mate coffee substitute with Strawberries, Papaya and Lime Peel that will refresh you with its terrific taste! You will enjoy the earthy and acidity-free Strawberry Papaya aroma and flavor again and again! - Ingredients: Yerba Mate, Strawberries, Papaya, Lime Peel and Natural Strawberry Papaya Flavor.
+Bullet Point 2: No fi
+...
+
+================================================================================
+SAMPLE 15
+================================================================================
+Item Name: Good's Original Kettle Cooked Potato Chips 24-1 Ounce Bags
+Value: 24.0
+Unit: Count
+
+
+================================================================================
+SAMPLE 16
+================================================================================
+Item Name: Simply Organic Harissa Seasoning, 3.2 oz (91 g)
+Bullet Point 1: HARISSA SEASONING - Simply Organic Harissa Seasoning is a tantalizing blend inspired by the iconic Tunisian hot sauce. Our organic creation is a garlic-kissed masterpiece, delivering a complex, smoky, curry-like flavor with a touch of invigorating spicy heat. Dive into the vibrant world of Harissa with this gorgeous, earthy-red blend that captures the essence of North African cuisine.
+Bullet Point 2: BEST USES - Immerse y
+...
+
+================================================================================
+SAMPLE 17
+================================================================================
+Item Name: Mentos Chewy Mint Candy Roll, Discovery 14 Assorted Fruit Flavors, 14 Pieces Per Roll, 15 Count Showbox
+Bullet Point 1: Experience a Fruit-Filled Adventure: Mentos Chewy Discovery 14 Flavors Roll, 14 pieces per chewy candy roll in this 15-count shadowbox
+Bullet Point 2: Enjoy a blast of refreshing fruit flavor in each Mentos chewy mint candy
+Bullet Point 3: Yes to Fresh! Mentos chewy candies are perfect for on-the-go freshness
+Bullet Point 4: Share a Mentos with friends, perfect for w
+...
+
+================================================================================
+SAMPLE 18
+================================================================================
+Item Name: Paradise Cherry Halves, Green, 8 Ounce
+Bullet Point 1: Green candied cherries are sweet and chewy, and complement red candied cherries in a variety of recipes, making for a more colorful and tasty baked treat.
+Bullet Point 2: Accent the color and flavor of a seasonal holiday fruitcake for family and friends with green cherries or make candied cherry chocolate chip cookies to stand out at the next pot luck party.
+Bullet Point 3: We have a number of wonderful and easy recipes that call 
+...
+
+================================================================================
+SAMPLE 19
+================================================================================
+Item Name: YORK Peppermint Patties Miniatures (Gluten-Free Dark Chocolate Covered Mint Candy), 12 Ounce Bags (Pack of 4)
+Bullet Point 1: Get the sensation with the delicious combination of cool refreshing peppermint and smooth dark chocolate
+Bullet Point 2: Great for sharing and snacking
+Bullet Point 3: 70% less fat than the average of the leading chocolate candy brands
+Bullet Point 4: Individually wrapped
+Bullet Point 5: Qualify as Gluten Free using Standards proposed by FDA
+Value: 48.0
+Unit: O
+...
+
+================================================================================
+SAMPLE 20
+================================================================================
+Item Name: The 12 Coffees of Christmas Gift Set
+Bullet Point 1: Each box contains 1oz coffee packets of Vanilla Bean, Cinnamon Swirl, Peppermint Bark, Coconut Creme, Butter Creme, Vanilla Raspberry, Fudge Brownie, Hazelnut Creme, Caramel Kiss, Chocolate Almond, Creme Brulee, and Toasted Pecan.
+Bullet Point 2: Each packet of coffee has the right amount of coffee to brew 6-8 cups
+Bullet Point 3: Simply fill the pouch into the filter, add water, brew and enjoy!
+Bullet Point 4: Share the joy of the 
+...
+
+================================================================================
+SAMPLE 21
+================================================================================
+Item Name: Badia 8 oz Whole Thyme Leaves/ Tomillo Entero Gluten Free Kosher
+Bullet Point: Badia Whole Thyme Leaves, 8 Ounce
+Value: 8.0
+Unit: Ounce
+
+
+================================================================================
+SAMPLE 22
+================================================================================
+Item Name: Good Earth Green Tea, Sweet and Spicy, Matcha Maker, 18 Count, Pack of 6
+Bullet Point 1: Green tea blended with the goodness of matcha and bright bursts of citrus flavors
+Bullet Point 2: A delicious tea blend that is both healthy and great tasting
+Bullet Point 3: Spiced with licorice root, orange peel, chamomile, orange oil, ginger root, and lime oil
+Bullet Point 4: No artificial flavors, colors or preservatives
+Value: 8.22
+Unit: Ounce
+
+
+================================================================================
+SAMPLE 23
+================================================================================
+Item Name: Bob's Red Mill Gluten Free Old Fashion Rolled Oats, 32-ounce (Pack of 4)
+Bullet Point 1: WHOLE GRAIN GOODNESS: Our Gluten Free Old Fashioned Rolled Oats make a deliciously hearty, whole grain cereal that gives you lasting energy
+Bullet Point 2: GLUTEN FREE: To assure the integrity of our gluten free products, we’ve built a separate 100% gluten free facility and batch test in our quality control laboratory using an ELISA Gluten Assay test
+Bullet Point 3: GOOD SOURCE OF FIBER: One servi
+...
+
+================================================================================
+SAMPLE 24
+================================================================================
+Item Name: Food to Live Long Grain White Rice, 3 Pounds Raw, Vegan, Kosher. Easy to Cook. Stays Separate and Fluffy. Rich in Iron and Low in Fat. Great as Side Dish. Perfect for Stuffing, Pilafs, and Salads
+Bullet Point 1: ✔️ PREMIUM QUALITY & KOSHER: Food to Live Long Grain White Rice is 100% Raw, certified Kosher, and vegan-friendly. Besides, it’s trans-fat and cholesterol-free.
+Bullet Point 2: ✔️ HIGHLY NUTRITIOUS: This rice variety is a great source of protein and carbs, therefore, it will k
+...
+
+================================================================================
+SAMPLE 25
+================================================================================
+Item Name: Peach Nectarine Decaf Black Tea (50 tea bags, ZIN: 537717)
+Bullet Point 1: Our Peach Nectarine Decaf Black Tea is a wonderful flavored decaffeinated Black tea with Apricots, Peach Fruit and Blackberry. You will enjoy the simple and elegant Peach Nectarine taste! - Ingredients: Decaf Black tea, Apricots, Peach Fruit, Blackberry and Natural Peach Nectarine Flavor.
+Bullet Point 2: No fillers.
+Bullet Point 3: Manufacturer: TerraVita
+Bullet Point 4: Size: 50 tea bags
+Bullet Point 5: Black 
+...
+
+================================================================================
+SAMPLE 26
+================================================================================
+Item Name: Mariani – Philippine Mango – 4 oz Pouch – 3 Pack
+Bullet Point 1: CONVENIENT PACKAGING – TouchLock Easy Seal keeps the dates fresh
+Bullet Point 2: NUTRITION INFORMATION – Contains 35% vitamin A, 25% vitamin C, and 25% folate
+Bullet Point 3: SNACKING MADE EASY – Perfect for on-the-go and stay-at-home snacking
+Bullet Point 4: HEALTHY SNACK – Snack guilt-free and enjoy a happier healthier lifestyle with natural treats
+Bullet Point 5: GREAT QUALITY – Picked at the height of sweetness givin
+...
+
+================================================================================
+SAMPLE 27
+================================================================================
+Item Name: Premium | VEGETABLE Seasonings | Variety 2 Pack | Large Shakers | Sour Cream & Onion Vegetable Seasoning | Ranch Vegetable Seasoning | Crafted in Small Batches
+Bullet Point 1: Introducing our Vegetable Seasoning Variety 2-Pack, a dynamic duo of flavors crafted to enhance the natural taste of your favorite vegetables. From the tangy goodness of Sour Cream & Onion to the classic ranch flavor, these seasonings will take your veggie dishes to new heights of deliciousness.
+Bullet Point 2: 
+...
+
+================================================================================
+SAMPLE 28
+================================================================================
+Item Name: Whole, Shelled & Dry Roasted Georgia Pecans With Himalayan Salt (1 Lb.) - Small Batch Roasted - Vegan & Keto Friendly - Healthy Southern Tastiness - Farm Fresh Nuts Brand
+Value: 16.0
+Unit: Ounce
+
+
+================================================================================
+SAMPLE 29
+================================================================================
+Item Name: Woodstock Farms Organic Pure Cane Granulated Sugar ( 12x24 OZ)
+Product Description: Woodstock Organic Granulated Pure Cane Sugar - 24 oz
+Value: 288.0
+Unit: Fl Oz
+
+
+================================================================================
+SAMPLE 30
+================================================================================
+Item Name: ProtiDIET High Protein Spaghettini Bolognese with Soy Chunks Sauce Mix, Low Fat, Low Sugar, Quick and Easy-to-Prepare Microwavable Protein Pasta to Support an Active Lifestyle -7 Pouches Per Box
+Bullet Point 1: Your Go-To Protein Fix – Fuel your body with our rich and savory Spaghettini Bolognese with Soy Chunks Sauce Mix, providing 15g of high quality protein in each pouch to support your busy and active lifestyle. Each box contains 7 x1.45 oz (41g) nutritious high protein pasta.
+Bul
+...
+
+================================================================================
+SAMPLE 31
+================================================================================
+Item Name: Colgate Total Gum Health Mouthwash- Clean Mint - 33.8 oz
+Bullet Point: Total gum health MW 1L cs spa clean Mt
+Value: 33.8
+Unit: Fl Oz
+
+
+================================================================================
+SAMPLE 32
+================================================================================
+Item Name: Healsi pH7 Natural Artesian Water, Fuchsia, 16.9 Fluid Ounce (Pack of 12)
+Bullet Point: Healsi pH7 Natural Artesian Water, Fuchsia, 16.9 Fluid Ounce (Pack of 12)
+Value: 202.79999999999998
+Unit: Fl Oz
+
+
+================================================================================
+SAMPLE 33
+================================================================================
+Item Name: Burt's Guinness Rich Chili Thick Cut Potato Chips, 5.3 Ounce
+Bullet Point 1: Packed with the amazing and familiar flavor of Guinness with rich, deep layers of authentic flavor
+Bullet Point 2: MSG Free
+Bullet Point 3: No artificial flavors or colors
+Bullet Point 4: No hydrogenated or trans fats
+Bullet Point 5: Suitable for vegetarians and vegans
+Value: 5.3
+Unit: oz
+
+
+================================================================================
+SAMPLE 34
+================================================================================
+Item Name: Basil Avocado Oil
+Bullet Point 1: Flavoring: Basil Avocado Oil is fresh but lite on your tongue. The flavors comes from the cold pressed avocado oil and the freshness from the basil it goes good any type of pizza and different kinds breads, as well as a dipping oil for many types of fresh bread or even a finished drizzle for when your pizza is fresh out the oven. You can even use the Basil Avocado Oil to make your own vinaigrette or just a oil and vinegar dressing.
+Bullet Point 2: ﻿In
+...
+
+================================================================================
+SAMPLE 35
+================================================================================
+Item Name: Kasa Style By The Original Salt Company Himalayan Rock Salt Grinder and Thyme
+Bullet Point 1: Himalayan Pink salt is obtainable in convenient grinders that keep the salt fresh.
+Bullet Point 2: For Cooking, Baking, and Seasoning
+Bullet Point 3: Grind it on in the kitchen, at the table, or on the grill
+Bullet Point 4: The Healthier and The Testier Salt
+Bullet Point 5: (8oz) Plastic Grinder
+Product Description: Kasa Style By The Original Salt Company Himalayan Pink Salt with Spices. All-
+...
+
+================================================================================
+SAMPLE 36
+================================================================================
+Item Name: PapaNicholas Coffee 25184 Premium Coffee, Breakfast Blend, 18/Carton
+Value: 52.8
+Unit: Ounce
+
+
+================================================================================
+SAMPLE 37
+================================================================================
+Item Name: Bakell - Neon Orange Tinker Dust (4g, 1x Mini Spray Pump) Edible Glitter for Food, Desserts, and Beverages!
+Bullet Point 1: 💕 Dual Use: When you buy Bakell's Tinker Dust, you're getting two products for the price of one! Tinker Dust (except certain golds) can be used as both a cake decorating dust and a beverage garnish! Add it to your favorite cocktail or soft drink to create a silky, shimmering effect that swirls your beverage to life!
+Bullet Point 2: 👀 Our Tinker Dusts come in over
+...
+
+================================================================================
+SAMPLE 38
+================================================================================
+Item Name: Rani Far Far/Fryums (Wheat & Tapioca Pellet) Potato Jhali 14oz (400g) ~ Vegan, Kosher, Uncooked, Used to Make Papad, Bhungra/Chip Snack
+Bullet Point 1: You'll LOVE our Far Far / Fryums (Wheat & Tapioca Pellet) Potato Jhali by Rani Brand--Here's Why:
+Bullet Point 2: 🌾Now KOSHER! Fryums, they are called this because thats what you do with them! Fry in your favorite hot oil for 20 seconds and make your own Indian chips!
+Bullet Point 3: 🌾Season them with Rani Chat Masala (sold separately)
+...
+
+================================================================================
+SAMPLE 39
+================================================================================
+Item Name: Wonderful Pistachios No Shells, Roasted & Salted Nuts, 6 Ounce Bag (Pack of 5), Protein Snacks, Gluten Free, Healthy Snack
+Bullet Point 1: SIZE: Pack of 5 (6 Ounce) No Shells - Our Wonderful Pistachios (Pack of 5) 6 ounce bags makes snacking on-the-go, healthy snack tasty and easy. See nutrition information for fat content.
+Bullet Point 2: FLAVOR: Roasted & Salted -A combination of fiber, protein and fat may help to curb hunger between meals in a healthy way.
+Bullet Point 3: CALIFORNI
+...
+
+================================================================================
+SAMPLE 40
+================================================================================
+Item Name: La Victoria Red Taco Sauce Mild, 15 oz. (Pack of 2)
+Value: 30.0
+Unit: Fl Oz
+
+
+================================================================================
+SAMPLE 41
+================================================================================
+Item Name: Dried Potatoes 1 Pound Bulk-Heat Sealed in a Poly Bag-Dehydrated Dried Vegetables
+Bullet Point 1: Yield: 1 Cup yields 2 Cups (by volume) or 12 Ounces (by weight) - No additives or preservatives. Non-GMO. Gluten Free.
+Bullet Point 2: Feathery light and creamy white, they are of exceptional quality.
+Bullet Point 3: White Potatoes are a delightful addition to any meal... and our White Potatoes are an even better addition
+Bullet Point 4: Dehydrated vegetables maintain a high level of thei
+...
+
+================================================================================
+SAMPLE 42
+================================================================================
+Item Name: Mrs. Wages Hot Salsa Tomato Seasoning Mix, 4 Oz. Pouch
+Product Description: Enhance your fresh or canned tomatoes.
+Value: 4.0
+Unit: Ounce
+
+
+================================================================================
+SAMPLE 43
+================================================================================
+Item Name: Grandma's Cookies Chocolate Chip Flavored 8 cookies 2 Per Pack (pack of 4)
+Value: 8.0
+Unit: Count
+
+
+================================================================================
+SAMPLE 44
+================================================================================
+Item Name: Adolph's Unseasoned Tenderizer, 44.5 oz (Pack - 2)
+Value: 44.5
+Unit: Ounce
+
+
+================================================================================
+SAMPLE 45
+================================================================================
+Item Name: The Sausage Maker - Collagen Sausage Casings, 65mm (2 1/2") x 18", Pre-Tied (20pcs)
+Bullet Point 1: These casings are perfect for making Summer Sausage and Smaller Salami
+Bullet Point 2: Extra durable to withstand tight stuffing without bursting
+Bullet Point 3: Each casing is 18" long and approximately 2 1/2" in diameter when stuffed
+Bullet Point 4: Stuffing capacity: approx. 2 1/2 lbs. of raw product
+Bullet Point 5: Non-edible
+Product Description: These casings are perfect for making
+...
+
+================================================================================
+SAMPLE 46
+================================================================================
+Item Name: Juicy Juice, 100% Juice, Kiwi Strawberry, 8 Pack, 6.75 Ounce
+Product Description: Fruit Juices
+Value: 6.75
+Unit: Ounce
+
+
+================================================================================
+SAMPLE 47
+================================================================================
+Item Name: Badia a Coltibuono Extra Virgin Olive Oil 16.9fl Oz.
+Bullet Point 1: Columellate Artesano Unfiltered Extra Virgin Olive Oil Cold Pressed
+Bullet Point 2: Item Package Dimension: 8.128cm L x 9.652cm W x 34.798cm H
+Bullet Point 3: Country Of Origin: Italy
+Bullet Point 4: Ingredients: Olive Oil
+Value: 16.9
+Unit: Fl Oz
+
+
+================================================================================
+SAMPLE 48
+================================================================================
+Item Name: Lee Kum Kee Hoisin Sauce, 36-Ounce Bottles (Pack of 12), Vegan Friendly
+Bullet Point 1: Contains 12 bottles of Lee Kum Kee Hoisin Sauce, 36 ounces each
+Bullet Point 2: Perfect for a marinade, dipping of finishing sauce to your favorite dish.
+Bullet Point 3: Vegan friendly
+Bullet Point 4: Quick and easy to make your favorite meal, cut cooking time down without sacrificing taste.
+Bullet Point 5: Making the perfect gift for cooks, or as part of your next grocery order, Lee Kum Kee produc
+...
+
+================================================================================
+SAMPLE 49
+================================================================================
+Item Name: Reed's Ginger Beer Extra Ginger Brew, 4 pk
+Bullet Point 1: Brewed since 1987
+Bullet Point 2: Extra has 2 times the fresh ginger root of Original for a medium spice level.
+Bullet Point 3: Reed's All Natural Ginger Brew
+Bullet Point 4: Authentic Jamican-Style Recipe
+Bullet Point 5: Total of Four 12 oz Bottles
+Value: 48.0
+Unit: Fl Oz
+
+
+================================================================================
+SAMPLE 50
+================================================================================
+Item Name: Pacific Natural Foods, Milk Soy Ult Plain, 32 Ounce
+Bullet Point 1: 70%+ Organic
+Bullet Point 2: Gluten Free
+Bullet Point 3: Dairy Free
+Bullet Point 4: Yeast Free
+Bullet Point 5: Kosher
+Product Description: With all the essential amino acids our bodies need, soy is a valued source of protein around the world. We've added a touch of sweetness and a whole lot of essential minerals and vitamins for a refreshing beverage that's as nutritious as it is delicious.
+Value: 32.0
+Unit: Ounce
+
