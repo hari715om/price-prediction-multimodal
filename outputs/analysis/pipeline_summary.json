@@ -1,0 +1,25 @@
+{
+  "dataset": {
+    "train_samples": 75000,
+    "test_samples": 75000,
+    "features_extracted": 20
+  },
+  "price": {
+    "min": 0.13,
+    "max": 2796.0,
+    "mean": 23.647654,
+    "median": 14.0
+  },
+  "ipq": {
+    "extracted_count": 43566,
+    "extraction_rate": 58.087999999999994,
+    "mean_ipq": 11.327426666666666
+  },
+  "text": {
+    "avg_chars": 908.8865466666666,
+    "avg_words": 147.85169333333334
+  },
+  "baseline_results": {
+    "oof_smape_percent": 50.01084482277734
+  }
+}
