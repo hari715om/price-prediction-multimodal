@@ -5,7 +5,7 @@ import sys
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 if ROOT_DIR not in sys.path:
     sys.path.insert(0, ROOT_DIR)
-    
+
 import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -18,7 +18,7 @@ import os
 from pathlib import Path
 import sys
 sys.path.append('..')
-from src.data.preprocess_text import TextPreprocessor
+from src.data.feature_engineering import engineer_all_features
 from src.utils.metrics import smape, smape_percent
 import warnings
 warnings.filterwarnings('ignore')
@@ -28,7 +28,6 @@ class BaselineModel:
     
     def __init__(self, config: dict = None):
         self.config = config or self.default_config()
-        self.preprocessor = TextPreprocessor()
         self.tfidf_vectorizer = None
         self.scaler = StandardScaler()
         self.models = []  # List of models from each fold
@@ -75,8 +74,8 @@ class BaselineModel:
         Returns:
             (text_features_sparse, numeric_features_array, target_array or None)
         """
-        print("\nExtracting text features...")
-        df_features = self.preprocessor.process_dataframe(df)
+        print("\nApplying feature engineering pipeline...")
+        df_features = engineer_all_features(df)
         
         # TF-IDF features
         print("Creating TF-IDF features...")
@@ -90,16 +89,33 @@ class BaselineModel:
         
         # Numeric features
         numeric_cols = [
-            'ipq',
-            'content_len_chars',
-            'content_len_words',
-            'title_len',
-            'title_word_count',
-            'title_caps_ratio',
-            'num_digits',
-            'num_special_chars',
-            'has_ipq',
-            'has_brand_candidate'
+            # Basic Features
+            'content_len_chars', 'content_len_words', 'num_digits', 'num_special_chars',
+
+            # Brand Features
+            'has_known_brand', 'brand_count',
+
+            # Category Features
+            'category_score',
+
+            # Premium/Value Features
+            'premium_score', 'value_score', 'is_premium', 'is_value_pack',
+
+            # Enhanced IPQ Features
+            'ipq', 'ipq_confidence',
+
+            # Weight/Volume Features
+            'weight_kg', 'volume_l', 'has_weight', 'has_volume',
+
+            # Numeric Indicator Features
+            'max_number', 'min_number', 'avg_number', 'number_count', 'has_decimal',
+
+            # Length Ratio Features
+            'digit_ratio', 'special_char_ratio', 'avg_word_length',
+
+            # Interaction Features
+            'ipq_x_weight', 'ipq_x_volume', 'text_len_per_ipq', 'words_per_ipq',
+            'premium_x_brand', 'value_x_ipq', 'weight_volume_ratio'
         ]
         
         numeric_features = df_features[numeric_cols].fillna(0).astype(float)
