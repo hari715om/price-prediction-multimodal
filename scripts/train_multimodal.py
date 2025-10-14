@@ -12,7 +12,7 @@ from scipy.sparse import hstack, csr_matrix
 import pickle
 from tqdm import tqdm
 
-from src.data.feature_engineering import extract_text_features
+from src.data.feature_engineering import engineer_all_features
 from src.utils.metrics import smape
 
 print("="*80)
@@ -33,8 +33,8 @@ print(f"Test shape: {test_df.shape}")
 # 2. EXTRACT TEXT FEATURES
 # ============================================================================
 print("\n[2/7] Extracting text features (IPQ, weights, volumes)...")
-train_df = extract_text_features(train_df)
-test_df = extract_text_features(test_df)
+train_df = engineer_all_features(train_df)
+test_df = engineer_all_features(test_df)
 
 print(f"✓ IPQ extracted - Mean: {train_df['ipq'].mean():.2f}, Max: {train_df['ipq'].max()}")
 
@@ -92,11 +92,33 @@ print(f"✓ TF-IDF shape: {X_train_tfidf.shape}")
 print("\n[5/7] Creating tabular features...")
 
 tabular_features = [
-    'ipq', 'has_ipq',
-    'text_len_chars', 'text_len_words',
-    'num_digits', 'num_numbers',
-    'weight_kg', 'volume_l',
-    'has_weight', 'has_volume'
+    # Basic Features
+    'content_len_chars', 'content_len_words', 'num_digits', 'num_special_chars',
+
+    # Brand Features
+    'has_known_brand', 'brand_count',
+
+    # Category Features
+    'category_score',
+
+    # Premium/Value Features
+    'premium_score', 'value_score', 'is_premium', 'is_value_pack',
+
+    # Enhanced IPQ Features
+    'ipq', 'ipq_confidence',
+
+    # Weight/Volume Features
+    'weight_kg', 'volume_l', 'has_weight', 'has_volume',
+
+    # Numeric Indicator Features
+    'max_number', 'min_number', 'avg_number', 'number_count', 'has_decimal',
+
+    # Length Ratio Features
+    'digit_ratio', 'special_char_ratio', 'avg_word_length',
+
+    # Interaction Features
+    'ipq_x_weight', 'ipq_x_volume', 'text_len_per_ipq', 'words_per_ipq',
+    'premium_x_brand', 'value_x_ipq', 'weight_volume_ratio'
 ]
 
 X_train_tabular = train_df[tabular_features].values.astype(np.float32)
