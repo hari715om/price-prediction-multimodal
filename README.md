@@ -82,12 +82,3 @@ This clearly demonstrates the incremental value added by advanced feature engine
 
 ---
 
-## ⚙️ How to Run This Project
-
-### 1. Setup
-```bash
-git clone <repo_url>
-cd price-prediction-multimodal
-python -m venv venv
-source venv/bin/activate   # or venv\Scripts\activate on Windows
-pip install -r requirements.txt
