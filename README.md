@@ -1,113 +1,124 @@
 Amazon ML Challenge 2025: Multimodal Product Price Prediction
-
-This repository contains our team’s solution for the Amazon ML Challenge 2025, where the goal was to predict product prices using both text descriptions (catalog_content) and product images (image_link).
-
-Our approach followed a phased strategy, beginning with a robust text-only baseline and extending to a multimodal model that fuses text and image features.
+This repository contains our team's solution for the Amazon ML Challenge 2025. The goal was to predict product prices using a multimodal dataset consisting of text descriptions (catalog_content) and product images (image_link). Our approach involved a phased strategy, starting with a robust text-only baseline and progressing to a final multimodal model that incorporates both text and image features.
 
 Final Multimodal OOF SMAPE: 49.40%
 
-Project Summary
+🚀 Project Summary
+This project tells a story of rapid development, strategic adaptation, and real-world problem-solving under a tight deadline. We successfully built a complete end-to-end pipeline, from data ingestion and cleaning to advanced feature engineering, model training, and cloud-based deep learning.
 
-This project reflects a 3-day journey of rapid experimentation, debugging, and strategic pivots under pressure.
-We built a complete, reproducible end-to-end pipeline — from raw data to multimodal prediction — blending NLP, Computer Vision, and classical ML.
+Key achievements include:
 
-Key Highlights:
+Advanced Feature Engineering: Developed a comprehensive pipeline to extract features like Item Pack Quantity (IPQ), brand names, product categories, and weight/volume from noisy text data.
 
-• Feature Engineering: Extracted structured features like IPQ, brand names, and weights from noisy text.
+Hybrid Cloud/Local Workflow: Strategically used Google Colab's T4 GPU for the computationally intensive task of extracting image embeddings and leveraged a powerful local multi-core CPU for the Gradient Boosting model training.
 
-• Hybrid Cloud/Local Setup: Used Google Colab (T4 GPU) for image embeddings and local CPU for LightGBM training.
+Robust Modeling: Implemented a stable 5-fold cross-validation strategy to train and validate our models, ensuring reliable performance estimates.
 
-• Cross-Validation: Implemented a stable 5-fold CV pipeline ensuring robust metrics.
+Significant Performance Gains: Improved our model's SMAPE score from an initial baseline of ~50.01% to a final multimodal score of ~49.40%, proving the value of our feature engineering and the inclusion of image data.
 
-• Performance: Improved SMAPE from ~50.01% → 49.59% → 49.40%, validating both text and multimodal improvements.
-
-• Technical Approach
-
-Our solution follows a modular design, processing text and images separately and merging their representations for final prediction.
+🛠️ Technical Approach
+Our solution is built on a modular pipeline that processes text and image data separately before fusing them for a final prediction.
 
 1. Feature Engineering (src/data/feature_engineering.py)
+This was the cornerstone of our performance improvement. We built a single, powerful pipeline that applies the following transformations:
 
-Extracted meaningful signals from messy product text.
+Basic Text Features: content_length, word_count, digit_count, etc.
 
-Basic: content_length, word_count, digit_count
+Advanced Text Features:
 
-Advanced:
+Brand Detection: Identified known brands from a predefined list.
 
-Brand detection via keyword matching
+Category Heuristics: Classified products into categories like food, beauty, etc., based on keywords.
 
-Category heuristics (food, beauty, electronics, etc.)
+Premium/Value Indicators: Scored text based on words like organic, premium, combo, and value pack.
 
-IPQ & weight extraction using regex-based parsing
+Enhanced IPQ Extraction: Used a prioritized list of regular expressions to robustly extract the Item Pack Quantity.
 
-“Premium” keyword scoring
+Weight/Volume Extraction: Normalized weights to kilograms and volumes to liters.
 
-Interaction features (e.g., ipq * weight_kg, len/ipq)
+Interaction Features: Created new features by combining existing ones (e.g., ipq * weight_kg, text_len / ipq).
 
-2. Image Embeddings (scripts/extract_image_embeddings.py)
+2. Image Feature Extraction (scripts/extract_image_embeddings.py)
+To process the 150,000 images, we used a pre-trained deep learning model.
 
-Processed 150K images using a pre-trained EfficientNet-B0 model.
+Model: EfficientNet-B0 (pre-trained on ImageNet).
 
-Used as a feature extractor (1280-D embeddings).
+Process: The model was used as a feature extractor. The final classification layer was removed, and the model was used to generate a 1280-dimensional embedding (vector) for each product image.
 
-Computed efficiently on Google Colab (T4 GPU).
-
-Saved embeddings for fusion with tabular/text data.
+Execution: This entire process was run on a Google Colab T4 GPU for efficiency, which turned a multi-day task into a multi-hour one.
 
 3. Modeling (scripts/train_multimodal.py)
+Our final model combines all engineered features.
 
-Combined TF-IDF, engineered features, and image embeddings.
+Algorithm: LightGBM (Light Gradient Boosting Machine), which is highly effective for tabular and mixed-density data.
 
-Model: LightGBM (efficient for tabular + sparse data)
+Features Used:
 
-Fusion: Early concatenation of all features
+TF-IDF Features: A sparse matrix of 30,000 text features (ngram_range=(1, 2)).
 
-Validation: 5-Fold CV with early stopping
+Image Embeddings: A dense matrix of 1280 features from EfficientNet-B0.
 
-Output: OOF predictions, test submission, and performance logs
+Tabular Features: A dense matrix of ~32 advanced numerical features from our engineering pipeline.
+
+Strategy: We used an Early Fusion approach, concatenating all three feature types into a single wide dataset before training the LightGBM model with 5-fold cross-validation.
 
 📊 Results
-Model Version	Key Features	OOF SMAPE
-Baseline	TF-IDF + Basic Text Features	~50.01%
-Enhanced Text	Advanced Text + TF-IDF	49.59%
-Final Multimodal	Text + TF-IDF + Image Embeddings	49.40%
+Our phased approach allowed us to measure the impact of each major component:
 
-Feature engineering provided the largest performance boost, while image features added measurable improvement.
+Model Version
 
-⚙️ How to Run
-# 1. Clone repository
-git clone <repo_url>
-cd amazon-ml-challenge-2025
+Key Features
 
-# 2. Setup environment
-pip install -r requirements.txt
+OOF SMAPE
 
-# 3. Prepare data
-# Place train.csv and test.csv inside data/raw/
+Initial Baseline
 
-# 4. (Optional) Download product images
+Basic Text Features + TF-IDF
+
+~50.01%
+
+Enhanced Baseline
+
+Advanced Text Features + TF-IDF
+
+49.59%
+
+Final Multimodal
+
+Enhanced Text + TF-IDF + Image Embeddings
+
+49.40%
+
+This clearly demonstrates that our feature engineering provided a significant boost, and the addition of image embeddings provided a further, measurable improvement.
+
+⚙️ How to Run This Project
+Setup:
+
+Clone the repository: git clone <repo_url>
+
+Create and activate a virtual environment.
+
+Install dependencies: pip install -r requirements.txt
+
+Download Data:
+
+Place train.csv and test.csv in the data/raw/ directory.
+
+Run the image downloader script to fetch all product images:
+
 python scripts/download_images.py --data data/raw/train.csv --output data/raw/train_images
 python scripts/download_images.py --data data/raw/test.csv --output data/raw/test_images
 
-# 5. Extract image embeddings (GPU recommended)
+Extract Image Embeddings:
+
+This step is computationally intensive and is best run on a machine with a GPU (e.g., Google Colab).
+
 python scripts/extract_image_embeddings.py
 
-# 6. Train multimodal model and generate predictions
+Train the Final Model & Generate Submission:
+
+Run the multimodal training script. This will perform all feature engineering and train the 5-fold model.
+
 python scripts/train_multimodal.py
 
-
-Output files (OOF, metrics, and test predictions) will be saved in:
-
-outputs/models/
-outputs/submissions/
-
-👥 Team
-
-Team Members:
-
-Hari Om Singh
-Ayush Raj
-Aarohan Garg
-
-🧩 Acknowledgment
-
-Special thanks to Amazon ML Challenge 2025 organizers for creating a platform that blended real-world problem solving with AI innovation.
+The final submission file will be saved to outputs/submissions/test_out_multimodal.csv.
